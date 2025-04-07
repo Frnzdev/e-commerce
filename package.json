@@ -13,6 +13,7 @@
     "@clerk/nextjs": "^4.21.14",
     "@prisma/client": "^6.5.0",
     "@radix-ui/react-slot": "^1.1.2",
+    "@stripe/stripe-js": "^7.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.487.0",
@@ -20,6 +21,7 @@
     "prisma": "^6.5.0",
     "react": "^18",
     "react-dom": "^18",
+    "stripe": "^18.0.0",
     "svix": "^1.63.1",
     "tailwind-merge": "^3.1.0",
     "tailwindcss-animate": "^1.0.7"
