@@ -4,8 +4,6 @@ import { ProductType } from "@/types/ProductType";
 
 type CartState = {
   cart: ProductType[];
-  //   addToCart: (product: ProductType) => void;
-  //   removeFromCart: (product: ProductType) => void;
   isOpen: boolean;
   toggleCart: () => void;
 };
