@@ -4,7 +4,7 @@ import { SignedIn, SignedOut } from "@clerk/nextjs/app-beta";
 import { UserButton, SignInButton } from "@clerk/nextjs";
 import { Button } from "@/components/ui/button";
 import { useCartStore } from "@/store";
-import Cart from "./cart";
+import Cart from "./Cart";
 
 const Navbar = () => {
   //const useStore = useCartStore();
